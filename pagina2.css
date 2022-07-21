@@ -1,0 +1,104 @@
+body{
+    margin: 0%;
+   
+}
+
+.top{
+    background: blue;
+    width: 1354px;
+    height:110px;
+    margin-top: -10px;
+}
+
+.titulo{
+    margin-top: -90px;
+    margin-left:80vh;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 255, 255);
+}
+
+.buttton{
+    margin-top: 20px;
+    font-size: 16px;
+    
+}
+
+.titulo2{
+    margin-top: 50px;
+    margin-left: 350px;
+}
+
+.texto1{
+   font-size: 25px;
+   margin-top:30px;
+   
+}
+
+.titulo3{
+    margin-top:-15px;
+    margin-left: 300px;
+}
+
+.titulo4{
+    margin-top: -20px;
+    margin-left:600px;
+}
+
+.texto3{
+    margin-top: -10px;
+}
+
+.idade{
+    margin-top: -500px;
+    margin-left: 600px;
+}
+
+.mulher{
+    margin-top:-27px;
+    margin-left: 400px;
+}
+
+.homem{
+    margin-top: -28px;
+    margin-left: 200px;
+}
+
+.img{
+    margin-left: 200px;
+    margin-top:70px;
+}
+
+.texto4{
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.button3{
+    margin-left:50px;
+    font-size:16px;
+    margin-top: 20px;
+    border:none;
+   padding: 10px 10px 10px 10px;
+   cursor: pointer;
+   border-radius: 5px;
+   background-color: var(--botão-tres);
+  color: white;
+  text-decoration: none;
+
+}
+
+.calculadora{
+    width: -50px;
+}
+
+:root{
+   --botão-tres: rgb(0, 68, 214);
+   --color-hover-success:rgb(5, 84, 255);
+    
+}
+
+.button3:hover{
+   background-color: var(--color-hover-success);
+ 
+
+}
